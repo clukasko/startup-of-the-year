@@ -1,2 +1,2 @@
 # startup-of-the-year
-Project 1: HTML5 and CSS3
+Project 1: Sign Up Website for Startup (HTML5 and CSS3)
